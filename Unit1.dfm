@@ -61,7 +61,7 @@ object Form1: TForm1
     Gradient = False
     HotTrack = True
     BordoTagliato = False
-    Caption = 'Indietro'
+    Caption = 'Cazzo'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWhite
     Font.Height = -16
